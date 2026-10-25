@@ -87,9 +87,5 @@ python structure.py
 
 ---
 
-## 📁 Repository Structure
 
-```text
-Python-Programs-Collection/
-├── factorial.py
 ```
