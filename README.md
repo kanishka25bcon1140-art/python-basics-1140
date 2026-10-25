@@ -1,50 +1,95 @@
-Python Programs Collection
-A collection of Python programs demonstrating loops, variables, factorial calculation, Fibonacci sequences, and dictionaries.
+# 🐍 Python Programs Collection
 
-1. Factorial Program
-File: factorial.py
+A collection of beginner-friendly Python programs demonstrating fundamental programming concepts, including loops, variables, factorial calculation, Fibonacci sequences, and dictionaries.
 
-What it does
-Calculates the factorial of the number stored in the variable n using a for loop. The current value of n is 5, so the result is 120.
+## 📚 Programs Included
 
-How to run
+### 1. Factorial Program
+
+**File:** `factorial.py`
+
+**Description:**
+Calculates the factorial of a number using a `for` loop. The variable `n` is set to `5`, and the program calculates its factorial as `120`.
+
+**Expected Output:**
+
+```text
+Factorial of 5 is 120
+```
+
+**How to Run:**
+
+```bash
 python factorial.py
-Learning objective
-To practise loops, variables, and multiplication to calculate a factorial.
+```
 
-2. Fibonacci Series Program
-File: fibonacci.py
+**Learning Objectives:**
 
-What it does
-Prints the first 10 Fibonacci numbers using a for loop and two updating variables.
+* Understand variables and `for` loops.
+* Learn factorial calculation using multiplication.
+* Practise basic mathematical operations in Python.
 
-Expected output:
+---
 
+### 2. Fibonacci Series Program
+
+**File:** `fibonacci.py`
+
+**Description:**
+Prints the first 10 numbers of the Fibonacci sequence using a `for` loop and two updating variables.
+
+**Expected Output:**
+
+```text
 0 1 1 2 3 5 8 13 21 34
-How to run
+```
+
+**How to Run:**
+
+```bash
 python fibonacci.py
-Learning objective
-To understand the Fibonacci sequence, loops, and updating variables.
+```
 
-3. Student Dictionary Program
-File: structure.py
+**Learning Objectives:**
 
-What it does
-Stores student information in a Python dictionary using the keys name, roll, and marks, then prints the values.
+* Understand the Fibonacci sequence.
+* Practise loops and variable updates.
+* Learn how to generate a number sequence in Python.
 
-Expected output:
+---
 
+### 3. Student Dictionary Program
+
+**File:** `structure.py`
+
+**Description:**
+Stores and displays student information using a Python dictionary. The dictionary contains the student's name, roll number, and marks.
+
+**Expected Output:**
+
+```text
 Name: Rahul
 Roll: 101
 Marks: 87.5
-How to run
-python structure.py
-Learning objective
-To practise creating dictionaries and accessing values using keys.
+```
 
-Repository Contents
-factorial.py — factorial calculation
-fibonacci.py — Fibonacci sequence
-structure.py — student dictionary example
-README.md — program descriptions and instructions
-audit.md — README audit notes
+**How to Run:**
+
+```bash
+python structure.py
+```
+
+**Learning Objectives:**
+
+* Understand Python dictionaries.
+* Learn how to store data using key-value pairs.
+* Practise accessing and displaying dictionary values.
+
+---
+
+## 📁 Repository Structure
+
+```text
+Python-Programs-Collection/
+├── factorial.py
+```
